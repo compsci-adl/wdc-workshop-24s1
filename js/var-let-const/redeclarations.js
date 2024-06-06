@@ -1,4 +1,4 @@
-var user = 'Pete';
-var user = 'John'; // Redeclaration
+let user = 'Pete';
+user = 'John'; // Redeclaration
 
 console.log(user);

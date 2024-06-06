@@ -1,5 +1,5 @@
-for (var i = 0; i < 10; i++) {
-	var one = 1;
+for (let i = 0; i < 10; i++) {
+	let one = 1;
 }
 
 console.log(i); // i is visible

@@ -1,3 +1,2 @@
-phrase = 'Hello';
+const phrase = 'Hello';
 console.log(phrase);
-var phrase; // Declare below
