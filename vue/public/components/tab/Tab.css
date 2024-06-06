@@ -1,0 +1,16 @@
+.component_tab-item {
+	width: 200px;
+	height: 40px;
+}
+.component_tab-item-active {
+	border: 1px solid red;
+	font-weight: bold;
+}
+
+.component_tab {
+	display: flex;
+	gap: 4px;
+	background: lightcyan;
+	width: fit-content;
+	padding: 4px;
+}

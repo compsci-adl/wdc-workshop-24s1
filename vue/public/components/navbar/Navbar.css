@@ -1,0 +1,15 @@
+.component_navbar {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+}
+
+.component_navbar-item {
+	display: block;
+	padding: 2px;
+}
+
+.component_navbar-item-active {
+	border: 1px solid red;
+	font-weight: bold;
+}
