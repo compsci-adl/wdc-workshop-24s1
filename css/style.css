@@ -1,0 +1,22 @@
+.item {
+	border: 1px solid blue;
+	width: 100px;
+	height: 100px;
+	/* width: 600px; */
+	/* height: 600px; */
+	font-size: 60px;
+}
+
+.flex-container {
+	display: flex;
+	/* flex-wrap: wrap; */
+	/* gap: 30px; */
+	/* justify-content: space-between; */
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	justify-items: center;
+	gap: 10px;
+}
